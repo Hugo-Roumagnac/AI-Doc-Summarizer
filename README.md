@@ -2,7 +2,7 @@
 
 Une application web moderne construite avec **Streamlit** et **LangChain** qui permet de résumer instantanément des documents PDF volumineux en utilisant l'intelligence artificielle via l'API **Groq**.
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 *   **Upload de PDF** : Analyse rapide via `PyMuPDF`.
 *   **IA de pointe** : Utilise le modèle `Llama-3.1-8b-instant` pour des résumés haute fidélité.
 *   **Interface Intuitive** : Design épuré avec Streamlit.
