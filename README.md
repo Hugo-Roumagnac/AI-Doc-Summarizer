@@ -12,5 +12,5 @@ Une application web moderne construite avec **Streamlit** et **LangChain** qui p
 
 1. **Cloner le projet** :
    ```bash
-   git clone [[https://github.com/ton-pseudo/ton-repo](https://github.com/Hugo-Roumagnac/AI-Doc-Summarizer.git](https://github.com/Hugo-Roumagnac/AI-Doc-Summarizer.git)
+   git clone [[https://github.com/Hugo-Roumagnac/AI-Doc-Summarizer](https://github.com/Hugo-Roumagnac/AI-Doc-Summarizer.git](https://github.com/Hugo-Roumagnac/AI-Doc-Summarizer.git)
    cd AI-Doc-Summarizer
